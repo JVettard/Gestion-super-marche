@@ -1,0 +1,15 @@
+		Bienvenue chez Super Marché Vettard
+
+Numéro Facture : 9722
+
+Nom du client : 
+
+Tèl : 
+
+Email : 
+====================================================
+
+Produits		QTE		
+====================================================
+Mufti		1
+Roadister		1

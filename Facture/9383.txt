@@ -1,0 +1,23 @@
+		Bienvenue chez Super Marché Vettard
+
+Numéro Facture : 9383
+
+Nom du client : Jerome
+
+Tèl : 1274674187
+
+Email : jaydra@gmail.com
+====================================================
+
+Produits		QTE		
+========================================================================================================
+
+
+====================================================
+Produit acheté : 			Skykar
+Quantité : 			1
+Prix de l'article : 			3000
+====================================================
+Total Brute : 			8100.00
+Taxe : 			51.00
+Total Net : 			8151.00
